@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//teste de file diferente :3
+//teste de file diferente  :3
 
 void printresultado(float val1, char op, float val2, float res)
 {
