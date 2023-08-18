@@ -7,7 +7,7 @@ float Subtrair(float x, float y);
 int main()
 {
     float v1,v2,resultado;
-    char operacao;
+    char operacao; 
 
     printf("Insira o primeiro valor: ");
     scanf("%f",&v1);
